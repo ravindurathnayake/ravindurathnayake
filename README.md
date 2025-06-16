@@ -1,90 +1,36 @@
-### Hi 👋, I'm  
-# Ravindu Rathnayake
+<h1 align="center">Hi 👋, I'm Ravindu Rathnayake</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka LK</h3>
 
-🎓 A passionate Software Engineering undergraduate from Sri Lanka 🇱🇰  
-🌐 Exploring full-stack development | IoT enthusiast | Tech blogger  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindurathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="ravindurathnayake" /> </p>
 
----
+- 🔭 I’m currently working on [Fleet Management & Vehicle Tracking System (IoT-based)](https://github.com/ravindurathnayake/fleet-tracking)
 
-### 🔭 I’m currently working on  
-**Fleet Management & Vehicle Tracking System (IoT-based)**  
-[GitHub Repo](https://github.com/yourusername/fleet-tracking)
+- 🌱 I’m currently learning **AI/ML**
 
-### 👯 I’m looking to collaborate on  
-**Smart Tourist Guide System with AR & 360° Images**  
-[Project Preview](https://github.com/yourusername/tourist-guide-ar)
+- 👨‍💻 All of my projects are available at [https://github.com/ravindurathnayake](https://github.com/ravindurathnayake)
 
-### 🤝 I’m looking for help with  
-**ESP32 Eye Tracking Integration for Driver Safety Monitoring**  
-[Details](https://github.com/yourusername/esp32-eye-tracking)
+- 📝 I regularly write articles on [https://medium.com/@yourusername](https://medium.com/@yourusername)
 
-### 🌱 I’m currently learning  
-- MERN Stack (MongoDB, Express, React, Node.js)  
-- IoT Development using ESP32  
-- Flutter for cross-platform mobile apps  
-- Machine Learning basics (Python + scikit-learn)
+- 💬 Ask me about **IOT**
 
-### 💬 Ask me about  
-React, IoT, ESP32-CAM, Firebase, REST APIs
+- 📫 How to reach me **ravindurathnayake258@gmail.com**
 
-### 📫 How to reach me  
-ravinduexample@gmail.com
+- 📄 Know about my experiences [https://your-resume-link.com](https://your-resume-link.com)
 
-### 👨‍💻 All of my projects are available at  
-[My GitHub Portfolio](https://github.com/yourusername)
+- ⚡ Fun fact **I debug my code more than I debug my life 😄**
 
-### 📝 I regularly write articles on  
-[My Tech Blog](https://medium.com/@yourusername)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/ravindu rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindu rathnayake" height="30" width="40" /></a>
+<a href="https://fb.com/ravindu.rathnayake.527358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.rathnayake.527358" height="30" width="40" /></a>
+<a href="https://instagram.com/ravindu_rathnayake_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindu_rathnayake_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ravindu_rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ravindu_rathnayake" height="30" width="40" /></a>
+</p>
 
-### 📄 Know about my experiences  
-[View My Resume](https://your-resume-link.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### ⚡ Fun fact  
-I debug my code more than I debug my life 😄
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/RavinduRathnayake"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RavinduRathnayake" /></a></p><br><br>
 
----
-
-## 🛠️ Skills
-
-### 💻 Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@yourusername)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindurathnayake&show_icons=true&locale=en&layout=compact" alt="ravindurathnayake" /></p>
