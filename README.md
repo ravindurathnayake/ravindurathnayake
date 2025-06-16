@@ -1,15 +1,25 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-<h1 align="center">Hi 👋, I'm Ravindu Rathnayake</h1>
-<h3 align="center">A passionate software engineering undergraduate from Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ravindu Rathnayake🍃</h1>
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Mobile+Application+Developer;Specialized+in+IoT%2C+AI+%26+ML&center=true&width=500&height=45">
+	</a>
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindurathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/ravindurathnayake?label=Followers" alt="ravindurathnayake" />
+	</a>
 </p>
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="85%" align="left">
 
 - 🔭 I’m currently working on [Fleet Management & Vehicle Tracking System (IoT-based)](https://github.com/ravindurathnayake/fleet-tracking)
 
@@ -58,9 +68,9 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
-<a href="[https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ](https://www.youtube.com/@ravindu_rathnayake)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="/ravindu_rathnayake" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@Ravindu_Rathnayake" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Ravindu_Rathnayake" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/ravindu-rathnayake-a588a5202" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/RavinduRathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
 <a href="[https://fb.com/kaveen dinethma](https://facebook.com/ravindu.rathnayake.527358)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.rathnayake.527358" height="50" width="50" /></a>
@@ -81,5 +91,5 @@
   </a>
 </p>
 
----
+
 
