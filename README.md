@@ -19,7 +19,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="25%" align="left">
+<td width="50%" align="left">
 
 - 🔭 I’m currently working on [Fleet Management & Vehicle Tracking System (IoT-based)](https://github.com/ravindurathnayake/fleet-tracking)
 
