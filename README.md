@@ -61,8 +61,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="[https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ](https://www.youtube.com/@ravindu_rathnayake)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="/ravindu_rathnayake" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/ravindu-rathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/RavinduRathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/ravindu-rathnayake-a588a5202" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/RavinduRathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindu-rathnayake" height="50" width="50" /></a>
 <a href="[https://fb.com/kaveen dinethma](https://facebook.com/ravindu.rathnayake.527358)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.rathnayake.527358" height="50" width="50" /></a>
 <a href="https://www.instagram.com/ravindu_rathnayake_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ravindu_rathnayake_" height="50" width="50" /></a>
 </p>
