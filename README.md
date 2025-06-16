@@ -13,8 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindurathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/ravindurathnayake?label=Followers" alt="ravindurathnayake" />
-	</a>
+		<img src="https://img.shields.io/github/followers/ravindurathnayake?label=Followers" alt="ravindurathnayake" /></a>
 </p>
 
 <table align="center">
