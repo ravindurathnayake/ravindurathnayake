@@ -34,7 +34,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
@@ -91,7 +91,7 @@
 ---
 
 <h3 align="left">Support Me:</h3>
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRathnayake">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
