@@ -55,6 +55,7 @@
   </td>
 </tr>
 </table>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -122,7 +123,7 @@
   </a>
 </p>
 
-
+---
 
 <h3 align="center">Support Me:</h3>
 <p align="center">
