@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=ravindurathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🔭 I’m currently working on [Fleet Management & Vehicle Tracking System (IoT-based)](https://github.com/ravindurathnayake/fleet-tracking)
 
 - 🌱 I’m currently learning **Artificial Intelligence / Machine Learning**
@@ -22,7 +26,15 @@
 - 📄 View my resume: [My Resume](https://your-resume-link.com)
 
 - ⚡ Fun fact: **I debug code more than I debug life 😄**
+</td>
+<td width="50%" align="center">
 
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 ---
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -43,7 +55,7 @@
 </table>
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://stackoverflow.com/users/YOUR_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://facebook.com/ravindu.rathnayake.527358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
@@ -53,7 +65,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
@@ -110,7 +122,7 @@
 
 ---
 
-<h3 align="left">Support Me:</h3>
+<h3 align="center">Support Me:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRathnayake">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -119,6 +131,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindurathnayake&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
