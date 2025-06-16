@@ -37,9 +37,9 @@
 
 - ⚡ Fun fact: **I debug code more than I debug life 😄**
 </td>
-<td width="50%" align="center">
+<td width="75%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <img align="center" alt="Coding" width="350" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
   
   </td>
