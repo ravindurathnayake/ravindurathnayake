@@ -36,6 +36,7 @@
 </tr>
 </table>
 
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -121,7 +122,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="center">Support Me:</h3>
 <p align="center">
