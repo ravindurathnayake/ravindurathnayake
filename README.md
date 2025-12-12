@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ravindurathnayake258)
 
-- 💬 Ask me about **IoT, Arduino, Flutter, Frontend Development**
+- 💬 Ask me about **IoT, Arduino, Flutter, Frontend Development, AI ML**
 
 - 📫 How to reach me: **ravindurathnayake258@gmail.com**
 
